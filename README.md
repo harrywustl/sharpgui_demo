@@ -5,7 +5,7 @@ Mini GUI project for collaborating lab in 2016.
 For finding signal peaks and bursts in electrophysiology recordings,
 like EMG / sharp microelectrode / patch clamp
 
-Usage
+### Usage ###
 	need 'plotpkmarkers.m', 'sharp_gui.m', and 'sharp_gui.fig' in same folder
 	use MATLAB import data tool, to load 'SharpEmgRecording.xlsx' spreadsheet.
 	After loading data into the base workspace, in the box next to Data Name, 
